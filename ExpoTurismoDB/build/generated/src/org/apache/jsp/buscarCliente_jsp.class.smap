@@ -1,0 +1,16 @@
+SMAP
+buscarCliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 buscarCliente.jsp
+buscarCliente.jsp
+*L
+5,132:44
+137,5:177
+141,17:182
+158,2:199,7
+160,2:213
+162,2:215,7
+164,17:229
+*E
